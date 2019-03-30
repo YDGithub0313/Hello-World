@@ -1,0 +1,5 @@
+# Hello-World
+
+YDGithub first try!
+
+这是我的第一个句Github程序，跟着《自学python入门训练》进行学习，希望可以获得更多的体验。
